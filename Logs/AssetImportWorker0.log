@@ -15,12 +15,12 @@ F:/SCHOOL/CaptainVR/CaptainVRTests
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-54963
+53191
 Successfully changed project path to: F:/SCHOOL/CaptainVR/CaptainVRTests
 F:/SCHOOL/CaptainVR/CaptainVRTests
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 85.81 ms, found 9 plugins.
-Preloading 4 native plugins for Editor in 3.12 ms.
+Refreshing native plugins compatible for Editor in 85.58 ms, found 9 plugins.
+Preloading 4 native plugins for Editor in 3.59 ms.
 Initialize engine version: 2020.3.18f1 (a7d1c678663c)
 [Subsystems] Discovering subsystems at path Z:/Unity Engine/2020.3.18f1/Editor/Data/Resources/UnitySubsystems
 [Subsystems] Discovering subsystems at path F:/SCHOOL/CaptainVR/CaptainVRTests/Assets
@@ -35,52 +35,52 @@ Initialize mono
 Mono path[0] = 'Z:/Unity Engine/2020.3.18f1/Editor/Data/Managed'
 Mono path[1] = 'Z:/Unity Engine/2020.3.18f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'Z:/Unity Engine/2020.3.18f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56120
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56648
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: Z:/Unity Engine/2020.3.18f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
 Register platform support module: Z:/Unity Engine/2020.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.005975 seconds.
+Registered in 0.006002 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 74.40 ms, found 9 plugins.
-Preloading 4 native plugins for Editor in 0.14 ms.
+Refreshing native plugins compatible for Editor in 80.61 ms, found 9 plugins.
+Preloading 4 native plugins for Editor in 0.13 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.629 seconds
+- Completed reload, in  1.666 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1629ms)
-		BeginReloadAssembly (92ms)
+	ReloadAssembly (1667ms)
+		BeginReloadAssembly (88ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (519ms)
-			LoadAssemblies (86ms)
+		EndReloadAssembly (523ms)
+			LoadAssemblies (83ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (180ms)
+			SetupTypeCache (171ms)
 			ReleaseScriptCaches (0ms)
 			RebuildScriptCaches (32ms)
-			SetupLoadedEditorAssemblies (216ms)
+			SetupLoadedEditorAssemblies (228ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (6ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (75ms)
-				BeforeProcessingInitializeOnLoad (18ms)
-				ProcessInitializeOnLoadAttributes (86ms)
-				ProcessInitializeOnLoadMethodAttributes (31ms)
+				RefreshPlugins (81ms)
+				BeforeProcessingInitializeOnLoad (19ms)
+				ProcessInitializeOnLoadAttributes (89ms)
+				ProcessInitializeOnLoadMethodAttributes (33ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.011842 seconds.
+Registered in 0.012483 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 76.07 ms, found 9 plugins.
-Preloading 4 native plugins for Editor in 0.12 ms.
+Refreshing native plugins compatible for Editor in 79.14 ms, found 9 plugins.
+Preloading 4 native plugins for Editor in 0.14 ms.
 [XR] OculusXRPlugin: registering subsystems
 [XR] Unable to register display lifecyle provider: [1]
 [XR] Oculus Input lifecycle provider registered.
@@ -101,317 +101,45 @@ UnityEngine.Debug:LogError (object)
 UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 
 Mono: successfully reloaded assembly
-- Completed reload, in  1.493 seconds
+- Completed reload, in  1.581 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1494ms)
-		BeginReloadAssembly (194ms)
+	ReloadAssembly (1583ms)
+		BeginReloadAssembly (191ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (7ms)
+			DisableScriptedObjects (6ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (22ms)
-		EndReloadAssembly (1212ms)
-			LoadAssemblies (135ms)
+			CreateAndSetChildDomain (20ms)
+		EndReloadAssembly (1304ms)
+			LoadAssemblies (133ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (415ms)
+			SetupTypeCache (404ms)
 			ReleaseScriptCaches (1ms)
 			RebuildScriptCaches (54ms)
-			SetupLoadedEditorAssemblies (465ms)
+			SetupLoadedEditorAssemblies (571ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (6ms)
+				InitializePlatformSupportModulesInManaged (7ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (76ms)
-				BeforeProcessingInitializeOnLoad (111ms)
-				ProcessInitializeOnLoadAttributes (237ms)
-				ProcessInitializeOnLoadMethodAttributes (18ms)
+				RefreshPlugins (79ms)
+				BeforeProcessingInitializeOnLoad (114ms)
+				ProcessInitializeOnLoadAttributes (234ms)
+				ProcessInitializeOnLoadMethodAttributes (119ms)
 				AfterProcessingInitializeOnLoad (17ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (7ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
-Refreshing native plugins compatible for Editor in 1.45 ms, found 9 plugins.
-Preloading 4 native plugins for Editor in 0.19 ms.
+Refreshing native plugins compatible for Editor in 0.93 ms, found 9 plugins.
+Preloading 4 native plugins for Editor in 0.14 ms.
 Unloading 2842 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 138.4 MB.
-System memory in use after: 138.6 MB.
+System memory in use before: 138.7 MB.
+System memory in use after: 138.9 MB.
 
-Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 3281.
-Total: 3.883700 ms (FindLiveObjects: 0.416500 ms CreateObjectMapping: 0.100100 ms MarkObjects: 3.244300 ms  DeleteObjects: 0.120900 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  path: Assets/IgniteCoders/Simple Water Shader/Info/Readme.asset
-  artifactKey: Guid(83c2ed844a8c74b779a4c823d16594b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/IgniteCoders/Simple Water Shader/Info/Readme.asset using Guid(83c2ed844a8c74b779a4c823d16594b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Unable to parse file Assets/IgniteCoders/Simple Water Shader/Info/Readme.asset: [Parser Failure at line 29: Expect ':' between key and value within mapping]
- -> (artifact id: '78967a4ea2a39db5a62e7ee2a87ee1d2') in 0.054410 seconds 
-  Import took 0.060687 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.891697 seconds.
-  path: Assets/Scenes/Talent Lobby.unity
-  artifactKey: Guid(3fe772790cebd8c419cb98e037a589ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Talent Lobby.unity using Guid(3fe772790cebd8c419cb98e037a589ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9a8305ca7ccebddecad4771cba77da2') in 0.006253 seconds 
-  Import took 0.010639 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 49.090549 seconds.
-  path: Assets/CaptainVR hub stuff/boats/boat1/boat_v3.obj
-  artifactKey: Guid(fffa40d91469cfd48a72152f66cb56d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CaptainVR hub stuff/boats/boat1/boat_v3.obj using Guid(fffa40d91469cfd48a72152f66cb56d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd39730996a72e531c59d763fa49dce70') in 0.363677 seconds 
-  Import took 0.368743 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 14.541464 seconds.
-  path: Assets/CaptainVR hub stuff/boats/boat1/New Material.mat
-  artifactKey: Guid(4cfb5f57be8cc684a9c12fa6c27f81d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CaptainVR hub stuff/boats/boat1/New Material.mat using Guid(4cfb5f57be8cc684a9c12fa6c27f81d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd42dddf0a4d358eff2be01b4fc3c061a') in 0.017367 seconds 
-  Import took 0.024400 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 175.509598 seconds.
-  path: Assets/CaptainVR hub stuff/boats/boat2
-  artifactKey: Guid(4682d508d7060264b99a3325b09a709a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CaptainVR hub stuff/boats/boat2 using Guid(4682d508d7060264b99a3325b09a709a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05e6e8c277e493e47bfd8caa5e1a839b') in 0.005920 seconds 
-  Import took 0.011166 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 9.249204 seconds.
-  path: Assets/CaptainVR hub stuff/boats/boat2/Boat.obj
-  artifactKey: Guid(a53d3279c97d5394d9fce010e8224b45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CaptainVR hub stuff/boats/boat2/Boat.obj using Guid(a53d3279c97d5394d9fce010e8224b45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '565c1f516cfadf90cb1ef706abf9e613') in 0.065657 seconds 
-  Import took 0.072373 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 108.991044 seconds.
-  path: Assets/IgniteCoders/Simple Water Shader/Resources/Water_mat_01.mat
-  artifactKey: Guid(141d9d6ca43b6c843965491604c6deff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/IgniteCoders/Simple Water Shader/Resources/Water_mat_01.mat using Guid(141d9d6ca43b6c843965491604c6deff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef71c249ab87db817b612e28c95e7048') in 0.021990 seconds 
-  Import took 0.026900 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000272 seconds.
-  path: Assets/IgniteCoders/Simple Water Shader/Resources/WaterSurface_single.tif
-  artifactKey: Guid(11154d936b05e66498f68fa178c5cfbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/IgniteCoders/Simple Water Shader/Resources/WaterSurface_single.tif using Guid(11154d936b05e66498f68fa178c5cfbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd172e16566cf89ff4b0941fe85c3a38f') in 0.028132 seconds 
-  Import took 0.033042 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000196 seconds.
-  path: Assets/IgniteCoders/Simple Water Shader/Resources/Water_mat_01.mat
-  artifactKey: Guid(141d9d6ca43b6c843965491604c6deff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/IgniteCoders/Simple Water Shader/Resources/Water_mat_01.mat using Guid(141d9d6ca43b6c843965491604c6deff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef71c249ab87db817b612e28c95e7048') in 0.013735 seconds 
-  Import took 0.019444 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000199 seconds.
-  path: Assets/IgniteCoders/Simple Water Shader/Resources/WaterReflection.renderTexture
-  artifactKey: Guid(4ae8ae7350b67b44785d874c413a2e03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/IgniteCoders/Simple Water Shader/Resources/WaterReflection.renderTexture using Guid(4ae8ae7350b67b44785d874c413a2e03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48a9d25a2112164f07848f31f5031af0') in 0.018325 seconds 
-  Import took 0.022939 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000256 seconds.
-  path: Assets/IgniteCoders/Simple Water Shader/Resources/WaterSurface_atlas.tif
-  artifactKey: Guid(2ed3d41b7c655bf4daa77f71b994f6ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/IgniteCoders/Simple Water Shader/Resources/WaterSurface_atlas.tif using Guid(2ed3d41b7c655bf4daa77f71b994f6ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a252acc9b0d18c1a3474a5c63807ed4d') in 0.014886 seconds 
-  Import took 0.023233 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000228 seconds.
-  path: Assets/IgniteCoders/Simple Water Shader/Resources/Water_mat_02.mat
-  artifactKey: Guid(8759ec410a6774b4ea13ae32dc2b8d2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/IgniteCoders/Simple Water Shader/Resources/Water_mat_02.mat using Guid(8759ec410a6774b4ea13ae32dc2b8d2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e3e6ff192c5aa2df995c958e2f58a28') in 0.016092 seconds 
-  Import took 0.021116 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000247 seconds.
-  path: Assets/IgniteCoders/Simple Water Shader/Resources/Water_mat_03.mat
-  artifactKey: Guid(19ac4fcfcf42b4344a6c7d97a5cd61fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/IgniteCoders/Simple Water Shader/Resources/Water_mat_03.mat using Guid(19ac4fcfcf42b4344a6c7d97a5cd61fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37cf44448d0d9d66157a03aad2e95bcf') in 0.015625 seconds 
-  Import took 0.021205 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000332 seconds.
-  path: Assets/IgniteCoders/Simple Water Shader/Resources/WaterBlock_50m.mesh
-  artifactKey: Guid(3da23cdf512599b42881988944f3918c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/IgniteCoders/Simple Water Shader/Resources/WaterBlock_50m.mesh using Guid(3da23cdf512599b42881988944f3918c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ba80ee5be7489da2fe3c8a9800239a7') in 0.018374 seconds 
-  Import took 0.025109 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.168893 seconds.
-  path: Assets/IgniteCoders/Simple Water Shader/Resources/WaterShader.shadergraph
-  artifactKey: Guid(dd97de70edf8a4141bee758a2efe7ff8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/IgniteCoders/Simple Water Shader/Resources/WaterShader.shadergraph using Guid(dd97de70edf8a4141bee758a2efe7ff8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f064c436dff30f57f7035034bf61db51') in 0.007988 seconds 
-  Import took 0.012427 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.218518 seconds.
-  path: Assets/IgniteCoders/Simple Water Shader/Resources/WaterShader.shadergraph
-  artifactKey: Guid(dd97de70edf8a4141bee758a2efe7ff8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/IgniteCoders/Simple Water Shader/Resources/WaterShader.shadergraph using Guid(dd97de70edf8a4141bee758a2efe7ff8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f064c436dff30f57f7035034bf61db51') in 0.002588 seconds 
-  Import took 0.007720 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 45.521661 seconds.
-  path: Assets/IgniteCoders/Simple Water Shader/Info
-  artifactKey: Guid(632838a6d3dbd974195a1f7f34ded3f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/IgniteCoders/Simple Water Shader/Info using Guid(632838a6d3dbd974195a1f7f34ded3f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d11a27dc87a9d28c3526b315ab9f2a8') in 0.006041 seconds 
-  Import took 0.010802 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 69.170443 seconds.
-  path: Assets/CaptainVR hub stuff/boats/New Folder
-  artifactKey: Guid(9ca2dac3f4ccddc4d9b97025116cc741) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CaptainVR hub stuff/boats/New Folder using Guid(9ca2dac3f4ccddc4d9b97025116cc741) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfdbf51996a1391110248742cc96b24b') in 0.008072 seconds 
-  Import took 0.019837 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.776449 seconds.
-  path: Assets/CaptainVR hub stuff/boats/boat3
-  artifactKey: Guid(9ca2dac3f4ccddc4d9b97025116cc741) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CaptainVR hub stuff/boats/boat3 using Guid(9ca2dac3f4ccddc4d9b97025116cc741) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da5541f41849f5e6fad60917a1ce0e1f') in 0.007361 seconds 
-  Import took 0.016759 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5.771168 seconds.
-  path: Assets/CaptainVR hub stuff/boats/boat3/Boat.obj
-  artifactKey: Guid(d28aebeb7dfcd414687c593e0db8e267) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CaptainVR hub stuff/boats/boat3/Boat.obj using Guid(d28aebeb7dfcd414687c593e0db8e267) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9933eb46e178f73548f7bad9e92f193f') in 0.035930 seconds 
-  Import took 0.043680 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 58.093432 seconds.
-  path: Assets/CaptainVR hub stuff/boats/boat4
-  artifactKey: Guid(691a76a5e26e0da48bee4ce75630fed5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CaptainVR hub stuff/boats/boat4 using Guid(691a76a5e26e0da48bee4ce75630fed5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16d090239bee1a1f09a2553801d8c358') in 0.006421 seconds 
-  Import took 0.012144 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5.220288 seconds.
-  path: Assets/CaptainVR hub stuff/boats/boat4/submarine.obj
-  artifactKey: Guid(38f03b14649b6594cb4935c35a3953e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CaptainVR hub stuff/boats/boat4/submarine.obj using Guid(38f03b14649b6594cb4935c35a3953e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0ecabc5be32f27fbc946cd45fa6f573') in 0.031841 seconds 
-  Import took 0.038281 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 9.107124 seconds.
-  path: Assets/CaptainVR hub stuff/boats/boat4/New Material.mat
-  artifactKey: Guid(a5cf75d620fda94459ab470818d6bc18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CaptainVR hub stuff/boats/boat4/New Material.mat using Guid(a5cf75d620fda94459ab470818d6bc18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e1cfa0b8a29dcbd2efeac3b204418d8') in 0.011608 seconds 
-  Import took 0.018384 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 95.564158 seconds.
-  path: Assets/CaptainVR hub stuff/boats/boat5
-  artifactKey: Guid(bced17738b3af21448814078ed69ed5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CaptainVR hub stuff/boats/boat5 using Guid(bced17738b3af21448814078ed69ed5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a07153954b773f8ab62f20dbb004c90b') in 0.006106 seconds 
-  Import took 0.011124 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 4.089592 seconds.
-  path: Assets/CaptainVR hub stuff/boats/boat5/boat (1).obj
-  artifactKey: Guid(626b7c0a1fb4e5c41974554debce2f86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CaptainVR hub stuff/boats/boat5/boat (1).obj using Guid(626b7c0a1fb4e5c41974554debce2f86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ac9a4e390ddc7523cf5d5866b9bae9f') in 0.042414 seconds 
-  Import took 0.047030 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.014521 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 1.01 ms, found 9 plugins.
-Preloading 4 native plugins for Editor in 0.15 ms.
-System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
-  at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x00048] in F:\SCHOOL\CaptainVR\CaptainVRTests\Library\PackageCache\com.unity.xr.oculus@1.10.0\Runtime\OculusLoader.cs:250 
-  at Unity.XR.Oculus.OculusLoader.EditorLoadOVRPlugin () [0x0007b] in F:\SCHOOL\CaptainVR\CaptainVRTests\Library\PackageCache\com.unity.xr.oculus@1.10.0\Runtime\OculusLoader.cs:235 
-  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
-  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <695d1cc93cca45069c528c15c9fdd749>:0 
-   --- End of inner exception stack trace ---
-  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <695d1cc93cca45069c528c15c9fdd749>:0 
-  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
-  at UnityEditor.EditorAssemblies.ProcessInitializeOnLoadMethodAttributes () [0x00047] in <5ad584e208e14caaa9e6b2e6027e9204>:0 
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
-UnityEngine.Logger:Log (UnityEngine.LogType,object)
-UnityEngine.Debug:LogError (object)
-UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
-
-Mono: successfully reloaded assembly
-- Completed reload, in  1.445 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1446ms)
-		BeginReloadAssembly (189ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (10ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (48ms)
-		EndReloadAssembly (1151ms)
-			LoadAssemblies (155ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (407ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (45ms)
-			SetupLoadedEditorAssemblies (406ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (8ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (106ms)
-				ProcessInitializeOnLoadAttributes (255ms)
-				ProcessInitializeOnLoadMethodAttributes (17ms)
-				AfterProcessingInitializeOnLoad (19ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (17ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.00 ms, found 9 plugins.
-Preloading 4 native plugins for Editor in 0.13 ms.
-Unloading 2717 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 136.2 MB.
-System memory in use after: 136.5 MB.
-
-Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 3371.
-Total: 3.559000 ms (FindLiveObjects: 0.290800 ms CreateObjectMapping: 0.070500 ms MarkObjects: 3.167100 ms  DeleteObjects: 0.029100 ms)
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 3282.
+Total: 3.865000 ms (FindLiveObjects: 0.310100 ms CreateObjectMapping: 0.076300 ms MarkObjects: 3.374900 ms  DeleteObjects: 0.102100 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -425,301 +153,148 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 37.657793 seconds.
-  path: Assets/Shaders
-  artifactKey: Guid(be8bc64afbe792c48a0380a280feb447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Shaders using Guid(be8bc64afbe792c48a0380a280feb447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66484ba9c872d9c19677c406ac86ac4a') in 0.014622 seconds 
-  Import took 0.020383 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.011310 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.98 ms, found 9 plugins.
-Preloading 4 native plugins for Editor in 0.14 ms.
-System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
-  at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x00048] in F:\SCHOOL\CaptainVR\CaptainVRTests\Library\PackageCache\com.unity.xr.oculus@1.10.0\Runtime\OculusLoader.cs:250 
-  at Unity.XR.Oculus.OculusLoader.EditorLoadOVRPlugin () [0x0007b] in F:\SCHOOL\CaptainVR\CaptainVRTests\Library\PackageCache\com.unity.xr.oculus@1.10.0\Runtime\OculusLoader.cs:235 
-  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
-  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <695d1cc93cca45069c528c15c9fdd749>:0 
-   --- End of inner exception stack trace ---
-  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <695d1cc93cca45069c528c15c9fdd749>:0 
-  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
-  at UnityEditor.EditorAssemblies.ProcessInitializeOnLoadMethodAttributes () [0x00047] in <5ad584e208e14caaa9e6b2e6027e9204>:0 
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
-UnityEngine.Logger:Log (UnityEngine.LogType,object)
-UnityEngine.Debug:LogError (object)
-UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
-
-Mono: successfully reloaded assembly
-- Completed reload, in  1.422 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1422ms)
-		BeginReloadAssembly (167ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (5ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (46ms)
-		EndReloadAssembly (1145ms)
-			LoadAssemblies (158ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (416ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (45ms)
-			SetupLoadedEditorAssemblies (391ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (7ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (105ms)
-				ProcessInitializeOnLoadAttributes (240ms)
-				ProcessInitializeOnLoadMethodAttributes (17ms)
-				AfterProcessingInitializeOnLoad (19ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (19ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.96 ms, found 9 plugins.
-Preloading 4 native plugins for Editor in 0.14 ms.
-Unloading 2717 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 136.3 MB.
-System memory in use after: 136.5 MB.
-
-Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 3374.
-Total: 4.044800 ms (FindLiveObjects: 0.301400 ms CreateObjectMapping: 0.093400 ms MarkObjects: 3.606900 ms  DeleteObjects: 0.041400 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 6.298047 seconds.
-  path: Assets/Shaders/Info/Icons
-  artifactKey: Guid(8a0c9218a650547d98138cd835033977) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Shaders/Info/Icons using Guid(8a0c9218a650547d98138cd835033977) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '877c38d75af7f9b160f6df01c0d12ba9') in 0.009681 seconds 
-  Import took 0.014292 seconds .
+  path: Assets/New Terrain 2.asset
+  artifactKey: Guid(0a5419dc057088a44bf9ffd6473974a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain 2.asset using Guid(0a5419dc057088a44bf9ffd6473974a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f9cefd92b2752aa62514f236b18313f') in 0.055379 seconds 
+  Import took 0.063061 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 2.976639 seconds.
-  path: Assets/Shaders/Resources
-  artifactKey: Guid(dc77ad855be57214eb39fd06212f2ce4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Shaders/Resources using Guid(dc77ad855be57214eb39fd06212f2ce4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ee9742fc64e1dc77e83884fc059a610') in 0.006301 seconds 
-  Import took 0.013050 seconds .
+  Time since last request: 0.000179 seconds.
+  path: Assets/New Terrain 1.asset
+  artifactKey: Guid(30763ac930ec958479eec1f062fd28e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain 1.asset using Guid(30763ac930ec958479eec1f062fd28e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '411c9971cc063e83ff547083d5192281') in 0.010844 seconds 
+  Import took 0.015942 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.001705 seconds.
-  path: Assets/Shaders/Resources
-  artifactKey: Guid(dc77ad855be57214eb39fd06212f2ce4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Shaders/Resources using Guid(dc77ad855be57214eb39fd06212f2ce4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ee9742fc64e1dc77e83884fc059a610') in 0.002592 seconds 
-  Import took 0.008040 seconds .
+  Time since last request: 2.326669 seconds.
+  path: Assets/CaptainVR hub stuff/terrain materials
+  artifactKey: Guid(bc29afec7eee0244a95be78900707c04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CaptainVR hub stuff/terrain materials using Guid(bc29afec7eee0244a95be78900707c04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2535dcbd22a99d29d3dc5c6b91451f67') in 0.006011 seconds 
+  Import took 0.012278 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 7.785482 seconds.
-  path: Assets/Shaders/Info/Scripts
-  artifactKey: Guid(5a9bcd70e6a4b4b05badaa72e827d8e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Shaders/Info/Scripts using Guid(5a9bcd70e6a4b4b05badaa72e827d8e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2381cffa6438b17ca19b3c642f224055') in 0.007732 seconds 
-  Import took 0.017904 seconds .
+  Time since last request: 91.679349 seconds.
+  path: Assets/CaptainVR hub stuff/terrain materials/sand.jpg
+  artifactKey: Guid(2ae2c6c9d97dff849a18d3bdd8c63180) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CaptainVR hub stuff/terrain materials/sand.jpg using Guid(2ae2c6c9d97dff849a18d3bdd8c63180) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '878f0c49346b9e8b7eeee792f08e4159') in 0.055829 seconds 
+  Import took 0.061518 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 1.236088 seconds.
-  path: Assets/Shaders/Info/Scripts/Readme.cs
-  artifactKey: Guid(fcf7219bab7fe46a1ad266029b2fee19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Shaders/Info/Scripts/Readme.cs using Guid(fcf7219bab7fe46a1ad266029b2fee19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaab18a8ccde8189ac64b9891c18466e') in 0.010120 seconds 
-  Import took 0.015593 seconds .
+  Time since last request: 243.958690 seconds.
+  path: Assets/POLYGON city pack/Meshes,textures/props_FBX/Unbenannt.png
+  artifactKey: Guid(15cf9090a45f29448831b15bb6d30f35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/POLYGON city pack/Meshes,textures/props_FBX/Unbenannt.png using Guid(15cf9090a45f29448831b15bb6d30f35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79b2463413617431c8c8b83dec23870b') in 0.023200 seconds 
+  Import took 0.029597 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000200 seconds.
-  path: Assets/Shaders/Info/Icons/Water Shader icon.PNG
-  artifactKey: Guid(766a7edc5f25e3b4daafb5554da17927) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Shaders/Info/Icons/Water Shader icon.PNG using Guid(766a7edc5f25e3b4daafb5554da17927) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fdf4ca9e4ed544776d0d358faaedb30') in 0.063865 seconds 
-  Import took 0.070631 seconds .
+  Time since last request: 0.000215 seconds.
+  path: Assets/Stylize Water Texture/Textures/Vol_36_5_Roughness.png
+  artifactKey: Guid(f10d29a80bdd36144b8303811abc46ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylize Water Texture/Textures/Vol_36_5_Roughness.png using Guid(f10d29a80bdd36144b8303811abc46ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38ab29bc9d9e370fb581a5fe9d5de66c') in 0.030756 seconds 
+  Import took 0.037098 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.001004 seconds.
-  path: Assets/Shaders/Info/Icons/Water Shader icon.PNG
-  artifactKey: Guid(766a7edc5f25e3b4daafb5554da17927) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Shaders/Info/Icons/Water Shader icon.PNG using Guid(766a7edc5f25e3b4daafb5554da17927) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fdf4ca9e4ed544776d0d358faaedb30') in 0.022257 seconds 
-  Import took 0.026860 seconds .
+  Time since last request: 0.000213 seconds.
+  path: Assets/Stylize Water Texture/Textures/Vol_36_5_Height.png
+  artifactKey: Guid(ef65c313b280a3245b7badb32cdc1c56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylize Water Texture/Textures/Vol_36_5_Height.png using Guid(ef65c313b280a3245b7badb32cdc1c56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0337c8d13658125ba7f924147cccd022') in 0.028181 seconds 
+  Import took 0.034072 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.813344 seconds.
-  path: Assets/Shaders/Info/Scripts/Editor
-  artifactKey: Guid(3ad9b87dffba344c89909c6d1b1c17e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Shaders/Info/Scripts/Editor using Guid(3ad9b87dffba344c89909c6d1b1c17e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22d9a53e681186c8abcd91760b4a6555') in 0.007157 seconds 
-  Import took 0.015047 seconds .
+  Time since last request: 0.000215 seconds.
+  path: Assets/POLYGON city pack/Meshes,textures/Buildings_FBX/y_1.png
+  artifactKey: Guid(51f43de7d4b275f4d8acec6f5d9b062d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/POLYGON city pack/Meshes,textures/Buildings_FBX/y_1.png using Guid(51f43de7d4b275f4d8acec6f5d9b062d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45aacfc67012065099869d30ac6fd79f') in 0.045467 seconds 
+  Import took 0.051274 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.707812 seconds.
-  path: Assets/Shaders/Info/Scripts/Editor/ReadmeEditor.cs
-  artifactKey: Guid(476cc7d7cd9874016adc216baab94a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Shaders/Info/Scripts/Editor/ReadmeEditor.cs using Guid(476cc7d7cd9874016adc216baab94a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4924c81aec6a0da90702c585ce457fce') in 0.006292 seconds 
-  Import took 0.016548 seconds .
+  Time since last request: 0.000208 seconds.
+  path: Assets/SkySeries Freebie/FreebieHdri/UnderTheSea4k.hdr
+  artifactKey: Guid(26cddb2a3a1bc804d8e9ca09b109793a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkySeries Freebie/FreebieHdri/UnderTheSea4k.hdr using Guid(26cddb2a3a1bc804d8e9ca09b109793a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'faee6b2e32d3c0ee7645308700634963') in 0.319054 seconds 
+  Import took 0.327399 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.017677 seconds.
-  path: Assets/Shaders/Info/Scripts/Editor/ReadmeEditor.cs
-  artifactKey: Guid(476cc7d7cd9874016adc216baab94a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Shaders/Info/Scripts/Editor/ReadmeEditor.cs using Guid(476cc7d7cd9874016adc216baab94a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4924c81aec6a0da90702c585ce457fce') in 0.002305 seconds 
-  Import took 0.007324 seconds .
+  Time since last request: 0.000269 seconds.
+  path: Assets/POLYGON city pack/Meshes,textures/props_FBX/water tank texture.png
+  artifactKey: Guid(d4715bc242d5ec7479e85762e7bb650b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/POLYGON city pack/Meshes,textures/props_FBX/water tank texture.png using Guid(d4715bc242d5ec7479e85762e7bb650b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adf414e35c921c2b594fcaec810b4fa1') in 0.019166 seconds 
+  Import took 0.025598 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 70.520019 seconds.
-  path: Assets/CaptainVR hub stuff/boats/boat5/yacht.obj
-  artifactKey: Guid(c340ee6928a142543adf8e9c0c0538d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CaptainVR hub stuff/boats/boat5/yacht.obj using Guid(c340ee6928a142543adf8e9c0c0538d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a116b7c2c9afc29aaad3b6f8eb27be86') in 0.329302 seconds 
-  Import took 0.334249 seconds .
+  Time since last request: 0.000223 seconds.
+  path: Assets/SkySeries Freebie/FreebieHdri/UnearthlyRed4k.hdr
+  artifactKey: Guid(a3de28b69b48944438c87668bd722ae7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkySeries Freebie/FreebieHdri/UnearthlyRed4k.hdr using Guid(a3de28b69b48944438c87668bd722ae7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a6a0bfa1a97f641ac72693e0b4a281f') in 0.135867 seconds 
+  Import took 0.143783 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 1.769548 seconds.
-  path: Assets/CaptainVR hub stuff/boats/boat5/for_texturing.png
-  artifactKey: Guid(eece70903af64d94699399fdc89b1718) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CaptainVR hub stuff/boats/boat5/for_texturing.png using Guid(eece70903af64d94699399fdc89b1718) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7f1155898dd5b713cd0b8d33427c90f') in 0.015718 seconds 
-  Import took 0.023579 seconds .
+  Time since last request: 0.000206 seconds.
+  path: Assets/Stylize Water Texture/Textures/Vol_36_5_Base_Color.png
+  artifactKey: Guid(aa701e5be2dbcd24aad4fb9c3ca284da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylize Water Texture/Textures/Vol_36_5_Base_Color.png using Guid(aa701e5be2dbcd24aad4fb9c3ca284da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '213074ff763d7d8ef7a175f86ede3744') in 0.026403 seconds 
+  Import took 0.032920 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.001052 seconds.
-  path: Assets/CaptainVR hub stuff/boats/boat5/for_texturing.png
-  artifactKey: Guid(eece70903af64d94699399fdc89b1718) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CaptainVR hub stuff/boats/boat5/for_texturing.png using Guid(eece70903af64d94699399fdc89b1718) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7f1155898dd5b713cd0b8d33427c90f') in 0.008766 seconds 
-  Import took 0.014210 seconds .
+  Time since last request: 0.000245 seconds.
+  path: Assets/POLYGON city pack/Meshes,textures/props_FBX/wood pot.png
+  artifactKey: Guid(f3d1c74f478041149b5f86617a111065) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/POLYGON city pack/Meshes,textures/props_FBX/wood pot.png using Guid(f3d1c74f478041149b5f86617a111065) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79fb5dac695ad69d4f901aea87b431de') in 0.016764 seconds 
+  Import took 0.022238 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 1.296419 seconds.
-  path: Assets/CaptainVR hub stuff/boats/boat5/parus2.png
-  artifactKey: Guid(14f368e90cb141b418b94bac1fb94a04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CaptainVR hub stuff/boats/boat5/parus2.png using Guid(14f368e90cb141b418b94bac1fb94a04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6150a5c134f69b809a2b12df1ba9656') in 0.013217 seconds 
-  Import took 0.018135 seconds .
+  Time since last request: 0.000231 seconds.
+  path: Assets/Stylize Water Texture/Textures/Vol_36_5_Normal.png
+  artifactKey: Guid(f805e88d3eaf0f046ac4ed03de5c7c3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylize Water Texture/Textures/Vol_36_5_Normal.png using Guid(f805e88d3eaf0f046ac4ed03de5c7c3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '021618c332b69880c76d66191158ef1b') in 0.140405 seconds 
+  Import took 0.147008 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 72.412484 seconds.
-  path: Assets/CaptainVR hub stuff/boats/boat5/New Material.mat
-  artifactKey: Guid(0cb69047f9b2ff0488c81254ec225e58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CaptainVR hub stuff/boats/boat5/New Material.mat using Guid(0cb69047f9b2ff0488c81254ec225e58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5383afce89f8737edcc09e330d3a36c0') in 0.009721 seconds 
-  Import took 0.015936 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 8.961007 seconds.
-  path: Assets/CaptainVR hub stuff/boats/boat3/textures/boat_ao.bmp
-  artifactKey: Guid(364b6fbe954984f4996fe177ff7de608) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CaptainVR hub stuff/boats/boat3/textures/boat_ao.bmp using Guid(364b6fbe954984f4996fe177ff7de608) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dadb85cbf90e62df5fa6bc1d95038011') in 0.016161 seconds 
-  Import took 0.020882 seconds .
+  Time since last request: 0.000420 seconds.
+  path: Assets/Stylize Water Texture/Textures/Vol_36_5_Ambient_Occlusion.png
+  artifactKey: Guid(5e3b47c76d4c55d44be834515b7fe551) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylize Water Texture/Textures/Vol_36_5_Ambient_Occlusion.png using Guid(5e3b47c76d4c55d44be834515b7fe551) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7c9e02a10c4ce8a84aa8c38d27e1b95') in 0.029000 seconds 
+  Import took 0.035247 seconds .
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000210 seconds.
-  path: Assets/CaptainVR hub stuff/boats/boat3/textures/boat_gloss.bmp
-  artifactKey: Guid(2dcd629e7d56797439cec1f4a9df62ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CaptainVR hub stuff/boats/boat3/textures/boat_gloss.bmp using Guid(2dcd629e7d56797439cec1f4a9df62ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfe0a0889435329b5c2c8b178a8049fc') in 0.014127 seconds 
-  Import took 0.018990 seconds .
+  path: Assets/Stylize Water Texture/Textures/Vol_36_5_Emissive.png
+  artifactKey: Guid(92de9fbb5fd25fe40a72ae7751d83b52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylize Water Texture/Textures/Vol_36_5_Emissive.png using Guid(92de9fbb5fd25fe40a72ae7751d83b52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84fa969a1947cc4a4031f69b62275456') in 0.026704 seconds 
+  Import took 0.032130 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000201 seconds.
-  path: Assets/CaptainVR hub stuff/boats/boat3/textures/boat_ao.bmp
-  artifactKey: Guid(364b6fbe954984f4996fe177ff7de608) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CaptainVR hub stuff/boats/boat3/textures/boat_ao.bmp using Guid(364b6fbe954984f4996fe177ff7de608) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dadb85cbf90e62df5fa6bc1d95038011') in 0.015353 seconds 
-  Import took 0.019664 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000183 seconds.
-  path: Assets/CaptainVR hub stuff/boats/boat3/textures/boat_diffuse.bmp
-  artifactKey: Guid(9772fb407346b69428018045f243f16f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CaptainVR hub stuff/boats/boat3/textures/boat_diffuse.bmp using Guid(9772fb407346b69428018045f243f16f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9851e8e514c23c94369e97c1fa58538b') in 0.014325 seconds 
-  Import took 0.020585 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000429 seconds.
-  path: Assets/CaptainVR hub stuff/boats/boat3/textures/boat_normal.bmp
-  artifactKey: Guid(6b50d03d0f724ba4f8343d247861cacf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CaptainVR hub stuff/boats/boat3/textures/boat_normal.bmp using Guid(6b50d03d0f724ba4f8343d247861cacf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c5317b0641403304b955ce0b3487e11') in 0.014293 seconds 
-  Import took 0.019305 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000251 seconds.
-  path: Assets/CaptainVR hub stuff/boats/boat3/textures/boat_specular.bmp
-  artifactKey: Guid(05321496c9d539c45b2bb6f5fcb78358) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CaptainVR hub stuff/boats/boat3/textures/boat_specular.bmp using Guid(05321496c9d539c45b2bb6f5fcb78358) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0493de607a3156262b9521563d75e7e8') in 0.014526 seconds 
-  Import took 0.019432 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005461 seconds.
-  path: Assets/CaptainVR hub stuff/boats/boat3/textures/boat_specular.bmp
-  artifactKey: Guid(05321496c9d539c45b2bb6f5fcb78358) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CaptainVR hub stuff/boats/boat3/textures/boat_specular.bmp using Guid(05321496c9d539c45b2bb6f5fcb78358) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0493de607a3156262b9521563d75e7e8') in 0.012023 seconds 
-  Import took 0.016911 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 114.028887 seconds.
-  path: Assets/CaptainVR hub stuff/boats/boat5/New Flare.flare
-  artifactKey: Guid(5b9ce8bba99f12e469660c641fb4e6e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CaptainVR hub stuff/boats/boat5/New Flare.flare using Guid(5b9ce8bba99f12e469660c641fb4e6e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd29254a3c7ea53fd5f634a827f385642') in 0.009327 seconds 
-  Import took 0.019270 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5.997772 seconds.
-  path: Assets/CaptainVR hub stuff/boats/boat5/New Material 1.mat
-  artifactKey: Guid(9d144713beded1a4cb05ff9508a5985f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CaptainVR hub stuff/boats/boat5/New Material 1.mat using Guid(9d144713beded1a4cb05ff9508a5985f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ef0fb04e16b3bb2b74bc1edbb416a28') in 0.015383 seconds 
-  Import took 0.020976 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000197 seconds.
-  path: Assets/CaptainVR hub stuff/boats/boat5/New Material.mat
-  artifactKey: Guid(0cb69047f9b2ff0488c81254ec225e58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CaptainVR hub stuff/boats/boat5/New Material.mat using Guid(0cb69047f9b2ff0488c81254ec225e58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92581806f97c301a8e6d77a25fa33d3b') in 0.026954 seconds 
-  Import took 0.032284 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.003772 seconds.
-  path: Assets/CaptainVR hub stuff/boats/boat5/New Material.mat
-  artifactKey: Guid(0cb69047f9b2ff0488c81254ec225e58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CaptainVR hub stuff/boats/boat5/New Material.mat using Guid(0cb69047f9b2ff0488c81254ec225e58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92581806f97c301a8e6d77a25fa33d3b') in 0.026431 seconds 
-  Import took 0.031455 seconds .
+  Time since last request: 0.000172 seconds.
+  path: Assets/POLYGON city pack/Meshes,textures/Buildings_FBX/y_2.png
+  artifactKey: Guid(4b07eed15163be44cb2fc09c3441ece1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/POLYGON city pack/Meshes,textures/Buildings_FBX/y_2.png using Guid(4b07eed15163be44cb2fc09c3441ece1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '765f2281fc16d8a9bfc5178c467a4b28') in 0.036664 seconds 
+  Import took 0.041723 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.012478 seconds.
+Registered in 0.012810 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 1.07 ms, found 9 plugins.
-Preloading 4 native plugins for Editor in 0.15 ms.
+Refreshing native plugins compatible for Editor in 1.09 ms, found 9 plugins.
+Preloading 4 native plugins for Editor in 0.17 ms.
 System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
   at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x00048] in F:\SCHOOL\CaptainVR\CaptainVRTests\Library\PackageCache\com.unity.xr.oculus@1.10.0\Runtime\OculusLoader.cs:250 
   at Unity.XR.Oculus.OculusLoader.EditorLoadOVRPlugin () [0x0007b] in F:\SCHOOL\CaptainVR\CaptainVRTests\Library\PackageCache\com.unity.xr.oculus@1.10.0\Runtime\OculusLoader.cs:235 
@@ -736,42 +311,42 @@ UnityEngine.Debug:LogError (object)
 UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 
 Mono: successfully reloaded assembly
-- Completed reload, in  1.693 seconds
+- Completed reload, in  1.383 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1693ms)
-		BeginReloadAssembly (177ms)
+	ReloadAssembly (1384ms)
+		BeginReloadAssembly (143ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (9ms)
+			DisableScriptedObjects (5ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (59ms)
-		EndReloadAssembly (1368ms)
-			LoadAssemblies (148ms)
+			CreateAndSetChildDomain (39ms)
+		EndReloadAssembly (1150ms)
+			LoadAssemblies (136ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (518ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (61ms)
-			SetupLoadedEditorAssemblies (451ms)
+			SetupTypeCache (404ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (52ms)
+			SetupLoadedEditorAssemblies (414ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (8ms)
 				SetLoadedEditorAssemblies (1ms)
 				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (133ms)
-				ProcessInitializeOnLoadAttributes (271ms)
-				ProcessInitializeOnLoadMethodAttributes (17ms)
-				AfterProcessingInitializeOnLoad (21ms)
+				BeforeProcessingInitializeOnLoad (113ms)
+				ProcessInitializeOnLoadAttributes (256ms)
+				ProcessInitializeOnLoadMethodAttributes (16ms)
+				AfterProcessingInitializeOnLoad (18ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (24ms)
+			AwakeInstancesAfterBackupRestoration (12ms)
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.28 ms, found 9 plugins.
-Preloading 4 native plugins for Editor in 0.19 ms.
-Unloading 2717 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 136.5 MB.
-System memory in use after: 136.7 MB.
+Refreshing native plugins compatible for Editor in 1.00 ms, found 9 plugins.
+Preloading 4 native plugins for Editor in 0.13 ms.
+Unloading 2723 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 135.9 MB.
+System memory in use after: 136.1 MB.
 
-Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 3414.
-Total: 4.761100 ms (FindLiveObjects: 0.466300 ms CreateObjectMapping: 0.109000 ms MarkObjects: 4.151700 ms  DeleteObjects: 0.032700 ms)
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 3330.
+Total: 3.660500 ms (FindLiveObjects: 0.299500 ms CreateObjectMapping: 0.074300 ms MarkObjects: 3.255400 ms  DeleteObjects: 0.029200 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -785,34 +360,65 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 545.374192 seconds.
-  path: Assets/CaptainVR hub stuff/boats/boat5/yacht.controller
-  artifactKey: Guid(028dbc002ab5c9a4fa41e55a72af45f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CaptainVR hub stuff/boats/boat5/yacht.controller using Guid(028dbc002ab5c9a4fa41e55a72af45f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf9bc78f1c68119b7802f066718420c2') in 0.032962 seconds 
-  Import took 0.041001 seconds .
+  Time since last request: 549.657702 seconds.
+  path: Assets/CaptainVR hub stuff/terrain materials/WATERSAND.jpg
+  artifactKey: Guid(2a61b7e0a129b874e81962837f7735e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CaptainVR hub stuff/terrain materials/WATERSAND.jpg using Guid(2a61b7e0a129b874e81962837f7735e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '105a40a093f98dd388ec39464e12e273') in 0.061348 seconds 
+  Import took 0.068703 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 8.144517 seconds.
-  path: Assets/CaptainVR hub stuff/boats/boat5/New Material 1.mat
-  artifactKey: Guid(9d144713beded1a4cb05ff9508a5985f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CaptainVR hub stuff/boats/boat5/New Material 1.mat using Guid(9d144713beded1a4cb05ff9508a5985f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0ce0c66bc86caf8c7cf9d320cab45f4') in 0.217048 seconds 
-  Import took 0.225734 seconds .
+  Time since last request: 13.355486 seconds.
+  path: Assets/SkySeries Freebie/FreebieHdri/CosmicCoolCloudEQ_hdr.exr
+  artifactKey: Guid(09999639e73bcd64abda22253af612d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkySeries Freebie/FreebieHdri/CosmicCoolCloudEQ_hdr.exr using Guid(09999639e73bcd64abda22253af612d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d4ac81bbd35b76cccc352cd37b4a999') in 2.049404 seconds 
+  Import took 2.056095 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.008837 seconds.
-  path: Assets/CaptainVR hub stuff/boats/boat5/New Material 1.mat
-  artifactKey: Guid(9d144713beded1a4cb05ff9508a5985f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CaptainVR hub stuff/boats/boat5/New Material 1.mat using Guid(9d144713beded1a4cb05ff9508a5985f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0ce0c66bc86caf8c7cf9d320cab45f4') in 0.016530 seconds 
-  Import took 0.022280 seconds .
+  Time since last request: 3.280128 seconds.
+  path: Assets/CaptainVR hub stuff/terrain materials/NewBrush.brush
+  artifactKey: Guid(3895be802367f7b49b3450ec7fd06027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CaptainVR hub stuff/terrain materials/NewBrush.brush using Guid(3895be802367f7b49b3450ec7fd06027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac898ecab3e08e4b9034af380280d9c2') in 0.024383 seconds 
+  Import took 0.029528 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 895.735806 seconds.
-  path: Assets/Shaders/Resources/Water_mat_01.mat
-  artifactKey: Guid(141d9d6ca43b6c843965491604c6deff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Shaders/Resources/Water_mat_01.mat using Guid(141d9d6ca43b6c843965491604c6deff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36a9399bff9c6d10bba7d7587eff6fd8') in 0.020051 seconds 
-  Import took 0.028093 seconds .
+  Time since last request: 0.006448 seconds.
+  path: Assets/CaptainVR hub stuff/terrain materials/NewBrush.brush
+  artifactKey: Guid(3895be802367f7b49b3450ec7fd06027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CaptainVR hub stuff/terrain materials/NewBrush.brush using Guid(3895be802367f7b49b3450ec7fd06027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac898ecab3e08e4b9034af380280d9c2') in 0.015126 seconds 
+  Import took 0.019765 seconds .
 
-AssetImportWorkerClient::OnTransportError - code=2 error=End of file
+========================================================================
+Received Import Request.
+  Time since last request: 105.776953 seconds.
+  path: Assets/CaptainVR hub stuff/terrain materials/NewBrush 1.brush
+  artifactKey: Guid(43d4ed8f7fd8f5b46a9ad77d5fbb1c98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CaptainVR hub stuff/terrain materials/NewBrush 1.brush using Guid(43d4ed8f7fd8f5b46a9ad77d5fbb1c98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76e5099652039f948b3f6073ad2ff249') in 0.016469 seconds 
+  Import took 0.021622 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021470 seconds.
+  path: Assets/CaptainVR hub stuff/terrain materials/NewBrush 1.brush
+  artifactKey: Guid(43d4ed8f7fd8f5b46a9ad77d5fbb1c98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CaptainVR hub stuff/terrain materials/NewBrush 1.brush using Guid(43d4ed8f7fd8f5b46a9ad77d5fbb1c98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76e5099652039f948b3f6073ad2ff249') in 0.012780 seconds 
+  Import took 0.017648 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 562.057623 seconds.
+  path: Assets/CaptainVR hub stuff/terrain materials/NewLayer 1.terrainlayer
+  artifactKey: Guid(fc8f6caa7c1d771438d8bb76e815b8c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CaptainVR hub stuff/terrain materials/NewLayer 1.terrainlayer using Guid(fc8f6caa7c1d771438d8bb76e815b8c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a92100177c0a84f3f89ec5236ff12a8b') in 0.026087 seconds 
+  Import took 0.033855 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/CaptainVR hub stuff/terrain materials/NewLayer 2.terrainlayer
+  artifactKey: Guid(5bf4c866e1351314f8fbeb3c4fe2e778) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CaptainVR hub stuff/terrain materials/NewLayer 2.terrainlayer using Guid(5bf4c866e1351314f8fbeb3c4fe2e778) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f719e0c74cc29d5235232950ba41a06b') in 0.012608 seconds 
+  Import took 0.017743 seconds .
+
