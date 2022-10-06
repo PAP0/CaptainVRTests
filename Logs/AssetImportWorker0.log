@@ -1738,3 +1738,1285 @@ Received Import Request.
 Start importing Assets/Garage Scene/wall2.mat using Guid(9ea5a47a4810fd047a731968a9a773f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '205fb6bda6a8cf0ce25d6fa590c59a36') in 0.015553 seconds 
   Import took 0.021474 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 1087.954460 seconds.
+  path: Assets/Garage Scene/ceiling.mat
+  artifactKey: Guid(6f67bcd8338974c4499673364c7a1b9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/ceiling.mat using Guid(6f67bcd8338974c4499673364c7a1b9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e22f8d816cf427dcfd51697ed78ecdf6') in 0.022832 seconds 
+  Import took 0.031674 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1181.524571 seconds.
+  path: Assets/POLYGON city pack/Meshes,textures/traffic signs FBX/Materials/road  traffic sign.mat
+  artifactKey: Guid(47d6f3b250a30aa448442bc469b1b56c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/POLYGON city pack/Meshes,textures/traffic signs FBX/Materials/road  traffic sign.mat using Guid(47d6f3b250a30aa448442bc469b1b56c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '923c8593e0869825cf211c002f4d6624') in 0.021539 seconds 
+  Import took 0.026901 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/POLYGON city pack/Prefabs/traffic signs/road traffic sign.prefab
+  artifactKey: Guid(5aa09168234dce04fb87af766863e32b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/POLYGON city pack/Prefabs/traffic signs/road traffic sign.prefab using Guid(5aa09168234dce04fb87af766863e32b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d92b9e74633e64b396eb414a3125447') in 0.024811 seconds 
+  Import took 0.031002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/POLYGON city pack/Meshes,textures/traffic signs FBX/road traffic sign.fbx
+  artifactKey: Guid(696cb771241f5a44aa4268a371db368e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/POLYGON city pack/Meshes,textures/traffic signs FBX/road traffic sign.fbx using Guid(696cb771241f5a44aa4268a371db368e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33af419f8dd28a03e853cee00d18406e') in 0.039582 seconds 
+  Import took 0.044769 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 341.065174 seconds.
+  path: Assets/Garage Scene/ceiling.mat
+  artifactKey: Guid(6f67bcd8338974c4499673364c7a1b9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/ceiling.mat using Guid(6f67bcd8338974c4499673364c7a1b9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca8ec49cd8e58224a443ad784ef2d4ea') in 0.021039 seconds 
+  Import took 0.026544 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Garage Scene/Garage Door 1.mat
+  artifactKey: Guid(5a3a23613eb31c14b9fc105ce23228e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/Garage Door 1.mat using Guid(5a3a23613eb31c14b9fc105ce23228e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cb4b64d1ec5ec39557c00a10e5b8353') in 0.018639 seconds 
+  Import took 0.024116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Garage Scene/wall2.mat
+  artifactKey: Guid(9ea5a47a4810fd047a731968a9a773f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/wall2.mat using Guid(9ea5a47a4810fd047a731968a9a773f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3861fcd0ed6d0498e15ecdfd98c48ec') in 0.017108 seconds 
+  Import took 0.024075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Garage Scene/NewLayer.terrainlayer
+  artifactKey: Guid(5279a369522b6c54281aa3b7d682aada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/NewLayer.terrainlayer using Guid(5279a369522b6c54281aa3b7d682aada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bec6bd069a0a0dc9c652092c727da485') in 0.145972 seconds 
+  Import took 0.153429 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Garage Scene/ceiling 1.mat
+  artifactKey: Guid(44b91a658f7fed84ea7c2d6402e49bed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/ceiling 1.mat using Guid(44b91a658f7fed84ea7c2d6402e49bed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c89a01cd60a3b80cd63d8fe01cbfa390') in 0.014513 seconds 
+  Import took 0.019743 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Garage Scene/wall.mat
+  artifactKey: Guid(b3b23a2b0db2603498d3698db3f50cff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/wall.mat using Guid(b3b23a2b0db2603498d3698db3f50cff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95e2bd74e2692f2395134de9eb8fca91') in 0.031395 seconds 
+  Import took 0.037781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Garage Scene/Garage Rollers 1.mat
+  artifactKey: Guid(7cfa3b18a707d00449372f71716727d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/Garage Rollers 1.mat using Guid(7cfa3b18a707d00449372f71716727d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c88c3a2cb9242237bcd515cec941d20d') in 0.025064 seconds 
+  Import took 0.031041 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Garage Scene/checkfloor 1.mat
+  artifactKey: Guid(156445e081a0eed4791af89ef74e9411) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/checkfloor 1.mat using Guid(156445e081a0eed4791af89ef74e9411) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '400765f4bb261f332e57682ffdd4836a') in 0.020308 seconds 
+  Import took 0.026973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.139261 seconds.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(d6588c07b8640d24a80d610fefd8df72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(d6588c07b8640d24a80d610fefd8df72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89cf12ed22243fa47b3c3d9258874d5f') in 0.024053 seconds 
+  Import took 0.031016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.321820 seconds.
+  path: Assets/Garage Scene/materials/galss.mat
+  artifactKey: Guid(286427cff882b4846afff085c7b2ad18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/materials/galss.mat using Guid(286427cff882b4846afff085c7b2ad18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b099c9ae7c65df2aa48c42394334052a') in 0.013294 seconds 
+  Import took 0.024477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.267851 seconds.
+  path: Assets/Garage Scene/materials/light.mat
+  artifactKey: Guid(6c4cb25c6c79cf9489fd20658a75b014) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/materials/light.mat using Guid(6c4cb25c6c79cf9489fd20658a75b014) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a58a1e7df5ca0491ffa9aa7a0d620cc') in 0.015016 seconds 
+  Import took 0.019831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 882.954582 seconds.
+  path: Assets/Garage Scene/models
+  artifactKey: Guid(92aaa622242178d40bab2962213368ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/models using Guid(92aaa622242178d40bab2962213368ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8583c4e3cfe7b7491f21511d5f03c31e') in 0.007169 seconds 
+  Import took 0.013896 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.736654 seconds.
+  path: Assets/Garage Scene/models/nascar_rim.obj
+  artifactKey: Guid(6285ddb1d7c0c76469265cc75e1ef96d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/models/nascar_rim.obj using Guid(6285ddb1d7c0c76469265cc75e1ef96d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b27dd0c123b1c420f0ccd5d68bc4d81a') in 0.059701 seconds 
+  Import took 0.066164 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.904869 seconds.
+  path: Assets/Garage Scene/models/nascarrim.mat
+  artifactKey: Guid(05779b396c5d56d4e878ff8c957bdc4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/models/nascarrim.mat using Guid(05779b396c5d56d4e878ff8c957bdc4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b00ae3b73f6426908ccc36781d940cb') in 0.016355 seconds 
+  Import took 0.022255 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1502.988169 seconds.
+  path: Assets/Garage Scene/tool-cart
+  artifactKey: Guid(4ebe1b41190c04b498ad0cead68bc562) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-cart using Guid(4ebe1b41190c04b498ad0cead68bc562) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '179c94f033d291820c6b042549884480') in 0.006278 seconds 
+  Import took 0.012014 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.385154 seconds.
+  path: Assets/Garage Scene/car-jack
+  artifactKey: Guid(ea660aaa23ca6994c8f7705f535a1cbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/car-jack using Guid(ea660aaa23ca6994c8f7705f535a1cbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9763bc33f84c0f16187c4dd2b2745d49') in 0.006584 seconds 
+  Import took 0.017023 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.176431 seconds.
+  path: Assets/Garage Scene/car-jack/source
+  artifactKey: Guid(d87a164f36005e34e9dded9e978962a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/car-jack/source using Guid(d87a164f36005e34e9dded9e978962a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2113f73518ee046c1b1ea4d0db905bdb') in 0.006367 seconds 
+  Import took 0.013477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.299402 seconds.
+  path: Assets/Garage Scene/car-jack/source/car jack sub.zip
+  artifactKey: Guid(19c39d0b284df9e41b01a9054675a8c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/car-jack/source/car jack sub.zip using Guid(19c39d0b284df9e41b01a9054675a8c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'feb2d4fbe041bdb23ad4439feb6553b9') in 0.013799 seconds 
+  Import took 0.019029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.442991 seconds.
+  path: Assets/Garage Scene/5r90inpl3wu8-ScrewDriver
+  artifactKey: Guid(e7dc88e9127958e4189dcef57070a38e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/5r90inpl3wu8-ScrewDriver using Guid(e7dc88e9127958e4189dcef57070a38e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0917ad10339cf72d5bf7d1ae9f72f469') in 0.007011 seconds 
+  Import took 0.014818 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010691 seconds.
+  path: Assets/Garage Scene/5r90inpl3wu8-ScrewDriver/screwdriver.DXF
+  artifactKey: Guid(e6e6d17dbf0e0dd41ba43111e6dd3dec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/5r90inpl3wu8-ScrewDriver/screwdriver.DXF using Guid(e6e6d17dbf0e0dd41ba43111e6dd3dec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c46fa36c6fb0a8cf2d3ff20cef1f9acb') in 0.013412 seconds 
+  Import took 0.018680 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Garage Scene/5r90inpl3wu8-ScrewDriver/scrwedriver.3DS
+  artifactKey: Guid(f3a22ec5cf89ad6439c0f8412bf460fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/5r90inpl3wu8-ScrewDriver/scrwedriver.3DS using Guid(f3a22ec5cf89ad6439c0f8412bf460fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d72e5eb0536a76639ab619c3f2054cd') in 0.070512 seconds 
+  Import took 0.075768 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Garage Scene/5r90inpl3wu8-ScrewDriver/screwdriver.obj
+  artifactKey: Guid(711824bd4507a1a4490a1fd49918d56e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/5r90inpl3wu8-ScrewDriver/screwdriver.obj using Guid(711824bd4507a1a4490a1fd49918d56e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec2a6f93cbc19b94ffb920e42355b5b5') in 0.051631 seconds 
+  Import took 0.056897 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Garage Scene/5r90inpl3wu8-ScrewDriver/screwdriver.FBX
+  artifactKey: Guid(ee046506d41fac74abe6bf2ec81ed249) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/5r90inpl3wu8-ScrewDriver/screwdriver.FBX using Guid(ee046506d41fac74abe6bf2ec81ed249) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6dc958c2e6a7ceff8231479f35a7974d') in 0.058430 seconds 
+  Import took 0.063005 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.644496 seconds.
+  path: Assets/Garage Scene/tool-cart/source
+  artifactKey: Guid(e6530ad197f8cf3478a86a29983f2e16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-cart/source using Guid(e6530ad197f8cf3478a86a29983f2e16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f93ce2c414e131d001debb7ff654fd0f') in 0.002211 seconds 
+  Import took 0.008846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001132 seconds.
+  path: Assets/Garage Scene/tool-cart/source
+  artifactKey: Guid(e6530ad197f8cf3478a86a29983f2e16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-cart/source using Guid(e6530ad197f8cf3478a86a29983f2e16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f93ce2c414e131d001debb7ff654fd0f') in 0.002088 seconds 
+  Import took 0.007069 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.804328 seconds.
+  path: Assets/Garage Scene/tool-cart/source/toolchest.zip
+  artifactKey: Guid(8fe283d8ba796a44494f87ec6dd87289) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-cart/source/toolchest.zip using Guid(8fe283d8ba796a44494f87ec6dd87289) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ab6e968ed391a810e75b2223d4159b5') in 0.007896 seconds 
+  Import took 0.012744 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.460328 seconds.
+  path: Assets/Garage Scene/tool-cart/source/toolchest
+  artifactKey: Guid(50a3d4b78efb6cc4889e0947b4fb080f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-cart/source/toolchest using Guid(50a3d4b78efb6cc4889e0947b4fb080f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1de3042bc3d6df7597171a58e534200') in 0.002074 seconds 
+  Import took 0.007450 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.199397 seconds.
+  path: Assets/Garage Scene/tool-cart/source/toolchest/toolchest03.dae
+  artifactKey: Guid(5ac56470a4290844681ec6db895cbf12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-cart/source/toolchest/toolchest03.dae using Guid(5ac56470a4290844681ec6db895cbf12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '953aec74ee12055f8d04cc181ea49b67') in 1.660119 seconds 
+  Import took 1.667646 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.812746 seconds.
+  path: Assets/Garage Scene/tool-cart/textures
+  artifactKey: Guid(79a3d4c52e7285748b34ef55f660fbed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-cart/textures using Guid(79a3d4c52e7285748b34ef55f660fbed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e04c11c37147822fa6e38b01c65c3397') in 0.006423 seconds 
+  Import took 0.012976 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.058257 seconds.
+  path: Assets/Garage Scene/tool-cart/textures/corigatedMetal.jpeg
+  artifactKey: Guid(0ae029f8f6d063e428d4e53df46478a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-cart/textures/corigatedMetal.jpeg using Guid(0ae029f8f6d063e428d4e53df46478a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aae808ff910d4e4318859d4c1ff6655b') in 0.021784 seconds 
+  Import took 0.026854 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Garage Scene/tool-cart/textures/Metal03-roughness.jpeg
+  artifactKey: Guid(631ccf1807f5e0845ba157e75a0cf4bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-cart/textures/Metal03-roughness.jpeg using Guid(631ccf1807f5e0845ba157e75a0cf4bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41d5aefa453c4d66cd9510ebc37e7a36') in 0.026792 seconds 
+  Import took 0.031551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Garage Scene/tool-cart/textures/Metal03-normal.jpeg
+  artifactKey: Guid(7e11cab288ab2104aae3cfc8738f1d32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-cart/textures/Metal03-normal.jpeg using Guid(7e11cab288ab2104aae3cfc8738f1d32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fac30d7e6fa0f2f75b7066b37dadf3d9') in 0.014686 seconds 
+  Import took 0.020185 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Garage Scene/tool-cart/textures/Metal03-basecolor.jpeg
+  artifactKey: Guid(6cc1eba1b5893c84e974cc18b87e507c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-cart/textures/Metal03-basecolor.jpeg using Guid(6cc1eba1b5893c84e974cc18b87e507c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56cd33c318ed8c5ac5780ea61cc52762') in 0.027155 seconds 
+  Import took 0.033225 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Garage Scene/tool-cart/textures/Metal03-metallic.jpeg
+  artifactKey: Guid(9d2a194256288604a991c01dd5864f9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-cart/textures/Metal03-metallic.jpeg using Guid(9d2a194256288604a991c01dd5864f9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1ad0ba9a0566406efcef778a0b2752b') in 0.020043 seconds 
+  Import took 0.025842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Garage Scene/tool-cart/textures/CorrigatedMetal_smoothness.jpeg
+  artifactKey: Guid(45d7cbd14f51e9b43a1c7387ee8e2637) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-cart/textures/CorrigatedMetal_smoothness.jpeg using Guid(45d7cbd14f51e9b43a1c7387ee8e2637) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '673377111676dbef83e8992ff724241c') in 0.011618 seconds 
+  Import took 0.016739 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Garage Scene/tool-cart/textures/CorrigatedMetal_normal.jpeg
+  artifactKey: Guid(eac335bfccf19e145be4b9f6bb29d569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-cart/textures/CorrigatedMetal_normal.jpeg using Guid(eac335bfccf19e145be4b9f6bb29d569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd1649dc149d25af71ca686d250190c9') in 0.015660 seconds 
+  Import took 0.023042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/Garage Scene/tool-cart/textures/CorrigatedMetal_metallic.jpeg
+  artifactKey: Guid(66ed59500c397ec47b795774c95885bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-cart/textures/CorrigatedMetal_metallic.jpeg using Guid(66ed59500c397ec47b795774c95885bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '851cc5545b69ccfb35c2a0bb6d4fb87b') in 0.011452 seconds 
+  Import took 0.017114 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.282666 seconds.
+  path: Assets/Garage Scene/tool-cart/textures/New Material.mat
+  artifactKey: Guid(876c621d6e9f88946b25f59d07cdd98b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-cart/textures/New Material.mat using Guid(876c621d6e9f88946b25f59d07cdd98b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7e18ededb84bc30c7911676b56fb814') in 0.017066 seconds 
+  Import took 0.022941 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 317.477578 seconds.
+  path: Assets/Garage Scene/body-kit-car-mitsubishi-lancer-vi-bumper
+  artifactKey: Guid(d7fe920d51c725447b3886377d5b5fc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/body-kit-car-mitsubishi-lancer-vi-bumper using Guid(d7fe920d51c725447b3886377d5b5fc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '824219e3f5bc6a9e71d0f4e131b61ec2') in 0.007650 seconds 
+  Import took 0.017854 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.746593 seconds.
+  path: Assets/Garage Scene/body-kit-car-mitsubishi-lancer-vi-bumper/source
+  artifactKey: Guid(a98981d0c0783f14bbab389c9421b103) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/body-kit-car-mitsubishi-lancer-vi-bumper/source using Guid(a98981d0c0783f14bbab389c9421b103) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f28f7feeb564132a4f5e7f73e02119b') in 0.006866 seconds 
+  Import took 0.012659 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.039922 seconds.
+  path: Assets/Garage Scene/body-kit-car-mitsubishi-lancer-vi-bumper/source/BumperLancer6.fbx
+  artifactKey: Guid(e4f362aa68db7e343bc5c56bd97d681b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/body-kit-car-mitsubishi-lancer-vi-bumper/source/BumperLancer6.fbx using Guid(e4f362aa68db7e343bc5c56bd97d681b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81a2307f42466808d103ee85cae84205') in 0.058607 seconds 
+  Import took 0.063232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 75.172860 seconds.
+  path: Assets/Garage Scene/body-kit-car-mitsubishi-lancer-vi-bumper/textures
+  artifactKey: Guid(60b88c01cc1e283409488faebcf14549) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/body-kit-car-mitsubishi-lancer-vi-bumper/textures using Guid(60b88c01cc1e283409488faebcf14549) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8f81c5f75e7b45688222190e8125f39') in 0.001910 seconds 
+  Import took 0.006625 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.057240 seconds.
+  path: Assets/Garage Scene/body-kit-car-mitsubishi-lancer-vi-bumper/textures/Bumper_Base_Color.png
+  artifactKey: Guid(ef9d11e1f6b8a4e43990254c2955349e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/body-kit-car-mitsubishi-lancer-vi-bumper/textures/Bumper_Base_Color.png using Guid(ef9d11e1f6b8a4e43990254c2955349e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e7512aaae5c18f4ef67914c52468678') in 0.021326 seconds 
+  Import took 0.026133 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Garage Scene/body-kit-car-mitsubishi-lancer-vi-bumper/textures/Bumper_Metallic.png
+  artifactKey: Guid(ff5efb6163b62c54d85ee9561bf09713) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/body-kit-car-mitsubishi-lancer-vi-bumper/textures/Bumper_Metallic.png using Guid(ff5efb6163b62c54d85ee9561bf09713) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c00597d759eae6faed74ad401231457c') in 0.019687 seconds 
+  Import took 0.025301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Garage Scene/body-kit-car-mitsubishi-lancer-vi-bumper/textures/Bumper_Roughness.png
+  artifactKey: Guid(7a05476bfbce8e4469d120c3d74a66bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/body-kit-car-mitsubishi-lancer-vi-bumper/textures/Bumper_Roughness.png using Guid(7a05476bfbce8e4469d120c3d74a66bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a5d35abe79310659c95fa6c1290534d') in 0.023771 seconds 
+  Import took 0.028656 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Garage Scene/body-kit-car-mitsubishi-lancer-vi-bumper/textures/internal_ground_ao_texture.jpeg
+  artifactKey: Guid(089c9df53eaa8ad46b4e44baecd8e293) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/body-kit-car-mitsubishi-lancer-vi-bumper/textures/internal_ground_ao_texture.jpeg using Guid(089c9df53eaa8ad46b4e44baecd8e293) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1c30a86beefcfa9912cab77ce703cc4') in 0.015625 seconds 
+  Import took 0.021273 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Garage Scene/body-kit-car-mitsubishi-lancer-vi-bumper/textures/Bumper_Normal.png
+  artifactKey: Guid(7a9c59bee274ce640be5f48de70db763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/body-kit-car-mitsubishi-lancer-vi-bumper/textures/Bumper_Normal.png using Guid(7a9c59bee274ce640be5f48de70db763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a88e00f3233c829354412193a394d1a1') in 0.016303 seconds 
+  Import took 0.021443 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Garage Scene/body-kit-car-mitsubishi-lancer-vi-bumper/textures/Bumper_Mixed_AO.png
+  artifactKey: Guid(e414edd4c9815304d85dfe0b9f0c59e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/body-kit-car-mitsubishi-lancer-vi-bumper/textures/Bumper_Mixed_AO.png using Guid(e414edd4c9815304d85dfe0b9f0c59e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9189e0bb42530f434f026fdf592bd4be') in 0.022779 seconds 
+  Import took 0.028280 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005041 seconds.
+  path: Assets/Garage Scene/body-kit-car-mitsubishi-lancer-vi-bumper/textures/Bumper_Mixed_AO.png
+  artifactKey: Guid(e414edd4c9815304d85dfe0b9f0c59e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/body-kit-car-mitsubishi-lancer-vi-bumper/textures/Bumper_Mixed_AO.png using Guid(e414edd4c9815304d85dfe0b9f0c59e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9189e0bb42530f434f026fdf592bd4be') in 0.013817 seconds 
+  Import took 0.018560 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.579264 seconds.
+  path: Assets/Garage Scene/body-kit-car-mitsubishi-lancer-vi-bumper/textures/bumpers.mat
+  artifactKey: Guid(b443036d8644ea343ae689d34c988c90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/body-kit-car-mitsubishi-lancer-vi-bumper/textures/bumpers.mat using Guid(b443036d8644ea343ae689d34c988c90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '825daeec47e98a6d464de59128a248e6') in 0.016393 seconds 
+  Import took 0.021893 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 69.680807 seconds.
+  path: Assets/Garage Scene/Brick/Brickwall.mat
+  artifactKey: Guid(5db8163a7946e6d40a323475e47b1cb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/Brick/Brickwall.mat using Guid(5db8163a7946e6d40a323475e47b1cb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '677aa0a95b20603bcd041e3283df529c') in 0.050362 seconds 
+  Import took 0.056062 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.842330 seconds.
+  path: Assets/Garage Scene/tool-box
+  artifactKey: Guid(e4511edb2004cfe48bc4b74d2817ae2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-box using Guid(e4511edb2004cfe48bc4b74d2817ae2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd261d4bcc61c65a8532a5b98a10f1b7f') in 0.007505 seconds 
+  Import took 0.012546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.583042 seconds.
+  path: Assets/Garage Scene/tool-box/source
+  artifactKey: Guid(8cd15f01cfa4b6942aeaf9a4dde2c691) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-box/source using Guid(8cd15f01cfa4b6942aeaf9a4dde2c691) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebc794ea18c9f69804fa65a8b424286d') in 0.002190 seconds 
+  Import took 0.007218 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.071474 seconds.
+  path: Assets/Garage Scene/tool-box/source/Tool Box4_low.fbx
+  artifactKey: Guid(c3021f28ac79cb7429d352c34e84d838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-box/source/Tool Box4_low.fbx using Guid(c3021f28ac79cb7429d352c34e84d838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba6ce5ca460717a81b52e4367c9cbc29') in 0.178028 seconds 
+  Import took 0.183432 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.834181 seconds.
+  path: Assets/Garage Scene/tool-box/textures
+  artifactKey: Guid(5a5c34f7d91b28e4cb38faba0ac80f28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-box/textures using Guid(5a5c34f7d91b28e4cb38faba0ac80f28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8353171cbebd09fe5c25ae9a58671eac') in 0.002016 seconds 
+  Import took 0.007060 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.045582 seconds.
+  path: Assets/Garage Scene/tool-box/textures/Box.bottom_albedo.jpg
+  artifactKey: Guid(4095a3fc859c98741bf6f0ef98333aae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-box/textures/Box.bottom_albedo.jpg using Guid(4095a3fc859c98741bf6f0ef98333aae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99f1738b762da69237ed59dc89457b71') in 0.013503 seconds 
+  Import took 0.018109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Garage Scene/tool-box/textures/Handles_normal.png
+  artifactKey: Guid(cc62ca653dcafea4daa5eccf08999908) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-box/textures/Handles_normal.png using Guid(cc62ca653dcafea4daa5eccf08999908) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b743a54d74de672217dfaf1bac8fca0') in 0.014122 seconds 
+  Import took 0.019016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/Garage Scene/tool-box/textures/Handles_albedo.jpg
+  artifactKey: Guid(bc0227d93e73b12428248db9c992f92c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-box/textures/Handles_albedo.jpg using Guid(bc0227d93e73b12428248db9c992f92c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f9a4cf5da643ee7f5674c051390a148') in 0.020187 seconds 
+  Import took 0.027443 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Garage Scene/tool-box/textures/Box.bottom_AO.jpg
+  artifactKey: Guid(64dc51e99c1752949be8c758e9da9a32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-box/textures/Box.bottom_AO.jpg using Guid(64dc51e99c1752949be8c758e9da9a32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fe5f4172424c8783d3bb84daf78d9a8') in 0.018560 seconds 
+  Import took 0.023498 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Garage Scene/tool-box/textures/Box.bottom_roughness.jpg
+  artifactKey: Guid(2d5a8f68f0ccdea4cb0e771d37fbc1e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-box/textures/Box.bottom_roughness.jpg using Guid(2d5a8f68f0ccdea4cb0e771d37fbc1e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83dc442e24d0df3e94fb4323e30b202a') in 0.020828 seconds 
+  Import took 0.025811 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Garage Scene/tool-box/textures/Handles_roughness.jpg
+  artifactKey: Guid(eed661d74de1d9545b6997599b84f3f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-box/textures/Handles_roughness.jpg using Guid(eed661d74de1d9545b6997599b84f3f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de1d5c1c2f28cf36eba344aca2107eb2') in 0.035205 seconds 
+  Import took 0.040569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Garage Scene/tool-box/textures/Box.bottom_normal.png
+  artifactKey: Guid(0c56143162670d346903bddb0bceafb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-box/textures/Box.bottom_normal.png using Guid(0c56143162670d346903bddb0bceafb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fea6f55533f1526925a6e802f274ce75') in 0.015684 seconds 
+  Import took 0.020821 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Garage Scene/tool-box/textures/Handles_AO.jpg
+  artifactKey: Guid(d188982266c05d74d900552e5df94f6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-box/textures/Handles_AO.jpg using Guid(d188982266c05d74d900552e5df94f6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc024c835b155e85cc5e2d21453a60d3') in 0.014560 seconds 
+  Import took 0.020100 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Garage Scene/tool-box/textures/Box.bottom_metallic.jpg
+  artifactKey: Guid(daf83433c14f8b645b778e0bc757e7d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-box/textures/Box.bottom_metallic.jpg using Guid(daf83433c14f8b645b778e0bc757e7d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04b266af407f8ae6b792955dbdc4d6f6') in 0.014195 seconds 
+  Import took 0.020795 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Garage Scene/tool-box/textures/Handles_metallic.jpg
+  artifactKey: Guid(7ac1fe0cdacfa5b45a3ba03131c68303) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-box/textures/Handles_metallic.jpg using Guid(7ac1fe0cdacfa5b45a3ba03131c68303) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6626d2f4e4f85c6f41f0bda142b56f6') in 0.012120 seconds 
+  Import took 0.018011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.376251 seconds.
+  path: Assets/Garage Scene/tool-box/textures/box.mat
+  artifactKey: Guid(63028a32972507c49a89ac78fe11d19d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-box/textures/box.mat using Guid(63028a32972507c49a89ac78fe11d19d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8fe41f256a7bc14dd3013eb243b9efd') in 0.014441 seconds 
+  Import took 0.021514 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.485157 seconds.
+  path: Assets/Garage Scene/tool-box/textures/handles.mat
+  artifactKey: Guid(c954cef397905ec468f21957713f912e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-box/textures/handles.mat using Guid(c954cef397905ec468f21957713f912e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c213248643e111fde1528176cdddab7') in 0.015521 seconds 
+  Import took 0.022585 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 406.097780 seconds.
+  path: Assets/Garage Scene/tool-box-v2
+  artifactKey: Guid(5b6b67435c65f8c4d8ba4ffc1c8d0657) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-box-v2 using Guid(5b6b67435c65f8c4d8ba4ffc1c8d0657) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d473a92fbcef2f54ff430a60098f615') in 0.008556 seconds 
+  Import took 0.014010 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.610036 seconds.
+  path: Assets/Garage Scene/tool-box-v2/source
+  artifactKey: Guid(f50e6ccad0bba444fb548b9f1ac42ab1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-box-v2/source using Guid(f50e6ccad0bba444fb548b9f1ac42ab1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10a6975edb9669ae865e18ee9693d10d') in 0.002308 seconds 
+  Import took 0.012555 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.968413 seconds.
+  path: Assets/Garage Scene/tool-box-v2/source/ToolBox V2.rar
+  artifactKey: Guid(92d05ce49d2e8a946a85edeed32f5c9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-box-v2/source/ToolBox V2.rar using Guid(92d05ce49d2e8a946a85edeed32f5c9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '617d10a6369d2a495fcfd48ea6b4d5be') in 0.008719 seconds 
+  Import took 0.013645 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.668667 seconds.
+  path: Assets/Garage Scene/tool-box-v2/source/ToolBox V2
+  artifactKey: Guid(2db0869f23d98b14fb7032fbcc003694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-box-v2/source/ToolBox V2 using Guid(2db0869f23d98b14fb7032fbcc003694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49b71b98ae73a7ee82358d74c0339f56') in 0.002403 seconds 
+  Import took 0.007726 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.484572 seconds.
+  path: Assets/Garage Scene/tool-box-v2/source/ToolBox V2/ToolBox V2
+  artifactKey: Guid(55d24f456ba1da346a91f6cb0f958007) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-box-v2/source/ToolBox V2/ToolBox V2 using Guid(55d24f456ba1da346a91f6cb0f958007) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bd78d1ec33a7df3174b4885f8d3673e') in 0.001806 seconds 
+  Import took 0.006790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.061113 seconds.
+  path: Assets/Garage Scene/tool-box-v2/source/ToolBox V2/ToolBox V2/ToolBox.FBX
+  artifactKey: Guid(8e2be399d4e105b43b0c5d27363e8841) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-box-v2/source/ToolBox V2/ToolBox V2/ToolBox.FBX using Guid(8e2be399d4e105b43b0c5d27363e8841) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '919a788d4cd74080e4344a1a37cad63e') in 0.024556 seconds 
+  Import took 0.029390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.013366 seconds.
+  path: Assets/Garage Scene/tool-box-v2/source/ToolBox V2/ToolBox V2/textures
+  artifactKey: Guid(1f66424fc57fd9d4f91caf668616bb2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-box-v2/source/ToolBox V2/ToolBox V2/textures using Guid(1f66424fc57fd9d4f91caf668616bb2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91b7a3251a191157405f160b592979ef') in 0.002005 seconds 
+  Import took 0.006620 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.050744 seconds.
+  path: Assets/Garage Scene/tool-box-v2/source/ToolBox V2/ToolBox V2/textures/07 - Default_albedo.jpg
+  artifactKey: Guid(ace60d31295de6f4aa260db06838b371) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-box-v2/source/ToolBox V2/ToolBox V2/textures/07 - Default_albedo.jpg using Guid(ace60d31295de6f4aa260db06838b371) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99cc7137ed6da42ec625b3e8936b0354') in 0.014686 seconds 
+  Import took 0.019575 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Garage Scene/tool-box-v2/source/ToolBox V2/ToolBox V2/textures/07 - Default_roughness.jpg
+  artifactKey: Guid(781160943f49f274e8284448913b184f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-box-v2/source/ToolBox V2/ToolBox V2/textures/07 - Default_roughness.jpg using Guid(781160943f49f274e8284448913b184f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78f70e165930da79e0ff502e98743c92') in 0.016243 seconds 
+  Import took 0.021525 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Garage Scene/tool-box-v2/source/ToolBox V2/ToolBox V2/textures/07 - Default_metallic.jpg
+  artifactKey: Guid(ad3622858db1a2c448595fcc841ed6a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-box-v2/source/ToolBox V2/ToolBox V2/textures/07 - Default_metallic.jpg using Guid(ad3622858db1a2c448595fcc841ed6a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e48476573fb4eedb3bed37ec2005f0f3') in 0.016202 seconds 
+  Import took 0.021129 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Garage Scene/tool-box-v2/source/ToolBox V2/ToolBox V2/textures/07 - Default_normal.png
+  artifactKey: Guid(882c49b01582bf146969921ee8867e20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-box-v2/source/ToolBox V2/ToolBox V2/textures/07 - Default_normal.png using Guid(882c49b01582bf146969921ee8867e20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3525fc79cc56f1b7244dabecc52a1952') in 0.014435 seconds 
+  Import took 0.020546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Garage Scene/tool-box-v2/source/ToolBox V2/ToolBox V2/textures/07 - Default_AO.jpg
+  artifactKey: Guid(ac71018fb62452f4893de47b60d3ea51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-box-v2/source/ToolBox V2/ToolBox V2/textures/07 - Default_AO.jpg using Guid(ac71018fb62452f4893de47b60d3ea51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3727ed339564b84f93821195149add6') in 0.015381 seconds 
+  Import took 0.020465 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.225183 seconds.
+  path: Assets/Garage Scene/tool-box-v2/source/ToolBox V2/ToolBox V2/textures/box.mat
+  artifactKey: Guid(e27e626481ebd6847ae183c2ba80578c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-box-v2/source/ToolBox V2/ToolBox V2/textures/box.mat using Guid(e27e626481ebd6847ae183c2ba80578c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9536e05273298cc88d1edc3ef77f5b62') in 0.011819 seconds 
+  Import took 0.016732 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 62.981907 seconds.
+  path: Assets/Garage Scene/tool-chest
+  artifactKey: Guid(d61d6880d78a4a8488b3e634945da0e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-chest using Guid(d61d6880d78a4a8488b3e634945da0e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d0e10274cc1c6d7d6c13e95d17d4982') in 0.007289 seconds 
+  Import took 0.012775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.772700 seconds.
+  path: Assets/Garage Scene/tool-chest/source
+  artifactKey: Guid(d4931e0eb6988624799293052e91d226) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-chest/source using Guid(d4931e0eb6988624799293052e91d226) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66d20161ba0173a605119560b8e8faf7') in 0.002149 seconds 
+  Import took 0.009255 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000829 seconds.
+  path: Assets/Garage Scene/tool-chest/source
+  artifactKey: Guid(d4931e0eb6988624799293052e91d226) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-chest/source using Guid(d4931e0eb6988624799293052e91d226) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66d20161ba0173a605119560b8e8faf7') in 0.002347 seconds 
+  Import took 0.007564 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.853692 seconds.
+  path: Assets/Garage Scene/tool-chest/source/model.zip
+  artifactKey: Guid(713da6c43447feb4caf67498e73ec7cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-chest/source/model.zip using Guid(713da6c43447feb4caf67498e73ec7cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4f14ca8ca8ae80bcdf7ef286656f784') in 0.006317 seconds 
+  Import took 0.011210 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000959 seconds.
+  path: Assets/Garage Scene/tool-chest/source/model.zip
+  artifactKey: Guid(713da6c43447feb4caf67498e73ec7cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-chest/source/model.zip using Guid(713da6c43447feb4caf67498e73ec7cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4f14ca8ca8ae80bcdf7ef286656f784') in 0.002663 seconds 
+  Import took 0.007660 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.919869 seconds.
+  path: Assets/Garage Scene/tool-chest/source/model
+  artifactKey: Guid(078239649e47cc64e891fcd28f7ff9af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-chest/source/model using Guid(078239649e47cc64e891fcd28f7ff9af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d7ecec1af6bab617d41bea4cf7cf4f4') in 0.002015 seconds 
+  Import took 0.006589 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.543463 seconds.
+  path: Assets/Garage Scene/tool-chest/source/model/model
+  artifactKey: Guid(89460dd436db8624eb901c616dfc324d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-chest/source/model/model using Guid(89460dd436db8624eb901c616dfc324d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd86cb3d50944f07ea5f0643ee92e566f') in 0.002011 seconds 
+  Import took 0.006587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.049974 seconds.
+  path: Assets/Garage Scene/tool-chest/source/model/model/model.fbx
+  artifactKey: Guid(df4866b8553856b419647bd71d79e319) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-chest/source/model/model/model.fbx using Guid(df4866b8553856b419647bd71d79e319) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b827248bd4a4b42c3580e3a12ae70a72') in 0.066861 seconds 
+  Import took 0.071597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.504900 seconds.
+  path: Assets/Garage Scene/tool-chest/source/model/model/textures
+  artifactKey: Guid(6ef1dcb74a4a4f3408eabc1e3c472868) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-chest/source/model/model/textures using Guid(6ef1dcb74a4a4f3408eabc1e3c472868) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b27b49fd94c43b661b0fde1a516a563a') in 0.002233 seconds 
+  Import took 0.007203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.050151 seconds.
+  path: Assets/Garage Scene/tool-chest/source/model/model/textures/Tools_chest_albedo.jpg
+  artifactKey: Guid(41a6d792ce4a65d4198d932106e6beb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-chest/source/model/model/textures/Tools_chest_albedo.jpg using Guid(41a6d792ce4a65d4198d932106e6beb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33b16883607c21289b2c82c95f0fbc7a') in 0.013653 seconds 
+  Import took 0.018691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Garage Scene/tool-chest/source/model/model/textures/Tools_chest_metallic.jpg
+  artifactKey: Guid(25afa47bac62cd4459d87ce332010582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-chest/source/model/model/textures/Tools_chest_metallic.jpg using Guid(25afa47bac62cd4459d87ce332010582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f66a0fe9b25f1d90ca25f4f39c587f2') in 0.012849 seconds 
+  Import took 0.017613 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Garage Scene/tool-chest/source/model/model/textures/Tools_chest_AO.jpg
+  artifactKey: Guid(7b1731659b76ca342b716c99ecd4a0d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-chest/source/model/model/textures/Tools_chest_AO.jpg using Guid(7b1731659b76ca342b716c99ecd4a0d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '851d2a7a779b82a711c98e0326b65e7b') in 0.014586 seconds 
+  Import took 0.020334 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Garage Scene/tool-chest/source/model/model/textures/Tools_chest_roughness.jpg
+  artifactKey: Guid(0c372f0216c8fec4f91cb7d8ef46489e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-chest/source/model/model/textures/Tools_chest_roughness.jpg using Guid(0c372f0216c8fec4f91cb7d8ef46489e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '920d66ded6eda221cdb1680b5be3f80f') in 0.013447 seconds 
+  Import took 0.018310 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Garage Scene/tool-chest/source/model/model/textures/Tools_chest_normal.png
+  artifactKey: Guid(4dd66333d84214b449aa996e5f8f66af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-chest/source/model/model/textures/Tools_chest_normal.png using Guid(4dd66333d84214b449aa996e5f8f66af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9881c3a357ec9afaa5af2c573252bbbc') in 0.014463 seconds 
+  Import took 0.019887 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.236002 seconds.
+  path: Assets/Garage Scene/tool-chest/source/model/model/textures/toolchesrt.mat
+  artifactKey: Guid(b94806203a56d1547b7378bd45c9ce28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Garage Scene/tool-chest/source/model/model/textures/toolchesrt.mat using Guid(b94806203a56d1547b7378bd45c9ce28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52abba74a1405f2ec593cf9626cd1432') in 0.014536 seconds 
+  Import took 0.022291 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 290.975105 seconds.
+  path: Assets/Kit folder/v8_Engine
+  artifactKey: Guid(3c5609068537d454096d96093b7038d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kit folder/v8_Engine using Guid(3c5609068537d454096d96093b7038d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1b6fc0a63b2a2e59403fe08596d0f8e') in 0.008114 seconds 
+  Import took 0.013735 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.037100 seconds.
+  path: Assets/Kit folder/v8_Engine/engine.fbx
+  artifactKey: Guid(a8518c9f538ba794296ea2bb4dbb2122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kit folder/v8_Engine/engine.fbx using Guid(a8518c9f538ba794296ea2bb4dbb2122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd664e7664db2c9f43d0b6ef409acc3ab') in 0.437107 seconds 
+  Import took 0.443673 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.135183 seconds.
+  path: Assets/Kit folder/Engine_OBJ
+  artifactKey: Guid(f4c2a4e1b923a524c889b132135dd6ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kit folder/Engine_OBJ using Guid(f4c2a4e1b923a524c889b132135dd6ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a193f3de8721b96b3e450a7465dcd58') in 0.006276 seconds 
+  Import took 0.012173 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.051358 seconds.
+  path: Assets/Kit folder/Engine_OBJ/engine.obj
+  artifactKey: Guid(d07b687b0590589419e2577496ade10f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kit folder/Engine_OBJ/engine.obj using Guid(d07b687b0590589419e2577496ade10f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26ff10ad7b80fbe33210e980d4853d24') in 0.047691 seconds 
+  Import took 0.053733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Kit folder/Engine_OBJ/xray.mat
+  artifactKey: Guid(850fbd741fa819f43bad901627ea4ec4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kit folder/Engine_OBJ/xray.mat using Guid(850fbd741fa819f43bad901627ea4ec4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0ce056e2ffbc12228c6c7f4618443ea') in 0.016442 seconds 
+  Import took 0.021535 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 104.568583 seconds.
+  path: Assets/Kit folder/Engine_OBJ/xray.mat
+  artifactKey: Guid(850fbd741fa819f43bad901627ea4ec4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kit folder/Engine_OBJ/xray.mat using Guid(850fbd741fa819f43bad901627ea4ec4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e3a94abc2e058aa252d32855fccf4e4') in 0.016116 seconds 
+  Import took 0.021135 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 25.08 ms, found 9 plugins.
+Preloading 4 native plugins for Editor in 0.18 ms.
+Unloading 40 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.8 MB.
+System memory in use after: 85.0 MB.
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 3398.
+Total: 184.903700 ms (FindLiveObjects: 0.346300 ms CreateObjectMapping: 0.075400 ms MarkObjects: 184.362300 ms  DeleteObjects: 0.118400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 10.51 ms, found 9 plugins.
+Preloading 4 native plugins for Editor in 0.14 ms.
+Unloading 40 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.9 MB.
+System memory in use after: 85.0 MB.
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 3398.
+Total: 5.210400 ms (FindLiveObjects: 0.459800 ms CreateObjectMapping: 0.102600 ms MarkObjects: 4.493400 ms  DeleteObjects: 0.152600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 11.18 ms, found 9 plugins.
+Preloading 4 native plugins for Editor in 0.13 ms.
+Unloading 40 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.9 MB.
+System memory in use after: 85.0 MB.
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 3398.
+Total: 4.976400 ms (FindLiveObjects: 0.336200 ms CreateObjectMapping: 0.075400 ms MarkObjects: 4.443600 ms  DeleteObjects: 0.119200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 8.46 ms, found 9 plugins.
+Preloading 4 native plugins for Editor in 0.12 ms.
+Unloading 40 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.9 MB.
+System memory in use after: 85.0 MB.
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 3398.
+Total: 5.216900 ms (FindLiveObjects: 0.345100 ms CreateObjectMapping: 0.076700 ms MarkObjects: 4.653700 ms  DeleteObjects: 0.139900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 11.21 ms, found 9 plugins.
+Preloading 4 native plugins for Editor in 0.19 ms.
+Unloading 40 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.9 MB.
+System memory in use after: 85.0 MB.
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 3398.
+Total: 7.238500 ms (FindLiveObjects: 0.597400 ms CreateObjectMapping: 0.128800 ms MarkObjects: 6.365700 ms  DeleteObjects: 0.145100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 9.05 ms, found 9 plugins.
+Preloading 4 native plugins for Editor in 0.13 ms.
+Unloading 40 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.9 MB.
+System memory in use after: 85.0 MB.
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 3398.
+Total: 4.890900 ms (FindLiveObjects: 0.475700 ms CreateObjectMapping: 0.135900 ms MarkObjects: 4.161600 ms  DeleteObjects: 0.116400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 8.25 ms, found 9 plugins.
+Preloading 4 native plugins for Editor in 0.15 ms.
+Unloading 40 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.9 MB.
+System memory in use after: 85.0 MB.
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 3398.
+Total: 4.789300 ms (FindLiveObjects: 0.325300 ms CreateObjectMapping: 0.073200 ms MarkObjects: 4.267500 ms  DeleteObjects: 0.122200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 8.01 ms, found 9 plugins.
+Preloading 4 native plugins for Editor in 0.13 ms.
+Unloading 40 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.9 MB.
+System memory in use after: 85.0 MB.
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 3398.
+Total: 4.772100 ms (FindLiveObjects: 0.498800 ms CreateObjectMapping: 0.136900 ms MarkObjects: 4.015100 ms  DeleteObjects: 0.119700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 11.38 ms, found 9 plugins.
+Preloading 4 native plugins for Editor in 0.22 ms.
+Unloading 40 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.9 MB.
+System memory in use after: 85.0 MB.
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 3398.
+Total: 10.226900 ms (FindLiveObjects: 0.911900 ms CreateObjectMapping: 0.284400 ms MarkObjects: 8.878600 ms  DeleteObjects: 0.149600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 8.58 ms, found 9 plugins.
+Preloading 4 native plugins for Editor in 0.14 ms.
+Unloading 40 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.9 MB.
+System memory in use after: 85.0 MB.
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 3398.
+Total: 6.175800 ms (FindLiveObjects: 0.501600 ms CreateObjectMapping: 0.102200 ms MarkObjects: 5.368800 ms  DeleteObjects: 0.201400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 10.14 ms, found 9 plugins.
+Preloading 4 native plugins for Editor in 0.14 ms.
+Unloading 40 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.9 MB.
+System memory in use after: 85.0 MB.
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 3398.
+Total: 5.680700 ms (FindLiveObjects: 0.507200 ms CreateObjectMapping: 0.119600 ms MarkObjects: 4.918100 ms  DeleteObjects: 0.134300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 24.03 ms, found 9 plugins.
+Preloading 4 native plugins for Editor in 4.07 ms.
+Unloading 40 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.9 MB.
+System memory in use after: 85.0 MB.
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 3398.
+Total: 26.074300 ms (FindLiveObjects: 2.938700 ms CreateObjectMapping: 0.761900 ms MarkObjects: 22.085500 ms  DeleteObjects: 0.283100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 10.81 ms, found 9 plugins.
+Preloading 4 native plugins for Editor in 0.15 ms.
+Unloading 40 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.9 MB.
+System memory in use after: 85.0 MB.
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 3398.
+Total: 9.778400 ms (FindLiveObjects: 0.602600 ms CreateObjectMapping: 0.221600 ms MarkObjects: 8.745000 ms  DeleteObjects: 0.207300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 22.43 ms, found 9 plugins.
+Preloading 4 native plugins for Editor in 0.26 ms.
+Unloading 40 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.9 MB.
+System memory in use after: 85.0 MB.
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 3398.
+Total: 8.301200 ms (FindLiveObjects: 0.543800 ms CreateObjectMapping: 0.690500 ms MarkObjects: 6.927600 ms  DeleteObjects: 0.137200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 18.34 ms, found 9 plugins.
+Preloading 4 native plugins for Editor in 0.53 ms.
+Unloading 40 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.6 MB.
+System memory in use after: 82.7 MB.
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 3398.
+Total: 11.036400 ms (FindLiveObjects: 0.918700 ms CreateObjectMapping: 0.467300 ms MarkObjects: 9.433900 ms  DeleteObjects: 0.214000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 21.85 ms, found 9 plugins.
+Preloading 4 native plugins for Editor in 1.38 ms.
+Unloading 40 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.6 MB.
+System memory in use after: 82.7 MB.
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 3398.
+Total: 17.990600 ms (FindLiveObjects: 1.493600 ms CreateObjectMapping: 1.085200 ms MarkObjects: 15.115000 ms  DeleteObjects: 0.293700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 11.51 ms, found 9 plugins.
+Preloading 4 native plugins for Editor in 0.20 ms.
+Unloading 40 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.6 MB.
+System memory in use after: 82.7 MB.
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 3398.
+Total: 9.263800 ms (FindLiveObjects: 1.490600 ms CreateObjectMapping: 0.575800 ms MarkObjects: 7.063000 ms  DeleteObjects: 0.131600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 42.71 ms, found 9 plugins.
+Preloading 4 native plugins for Editor in 0.60 ms.
+Unloading 40 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.6 MB.
+System memory in use after: 82.7 MB.
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 3398.
+Total: 15.123500 ms (FindLiveObjects: 1.310200 ms CreateObjectMapping: 0.513600 ms MarkObjects: 10.923800 ms  DeleteObjects: 2.368900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 9.85 ms, found 9 plugins.
+Preloading 4 native plugins for Editor in 0.14 ms.
+Unloading 40 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.9 MB.
+System memory in use after: 85.0 MB.
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 3398.
+Total: 7.293000 ms (FindLiveObjects: 0.512900 ms CreateObjectMapping: 0.142600 ms MarkObjects: 6.482200 ms  DeleteObjects: 0.154000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 12.07 ms, found 9 plugins.
+Preloading 4 native plugins for Editor in 0.16 ms.
+Unloading 40 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.9 MB.
+System memory in use after: 85.0 MB.
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 3398.
+Total: 5.357300 ms (FindLiveObjects: 0.334500 ms CreateObjectMapping: 0.074200 ms MarkObjects: 4.799800 ms  DeleteObjects: 0.147000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 8.47 ms, found 9 plugins.
+Preloading 4 native plugins for Editor in 0.14 ms.
+Unloading 40 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.9 MB.
+System memory in use after: 85.0 MB.
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 3398.
+Total: 5.458500 ms (FindLiveObjects: 0.364100 ms CreateObjectMapping: 0.076100 ms MarkObjects: 4.861600 ms  DeleteObjects: 0.155200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
